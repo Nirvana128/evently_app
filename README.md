@@ -51,7 +51,3 @@ Through this project, I gained hands-on experience in:
 - Handling user authentication securely
 - Building responsive and user-friendly UI
 
----
-## Demo Video
-https://drive.google.com/file/d/1zB18fagG3Xps23pZ0AqxEhcyJ3gmemXo/view?usp=sharing
-

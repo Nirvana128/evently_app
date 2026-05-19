@@ -55,8 +55,3 @@ Through this project, I gained hands-on experience in:
 ## Demo Video
 https://drive.google.com/file/d/1zB18fagG3Xps23pZ0AqxEhcyJ3gmemXo/view?usp=sharing
 
-## Developed By
-
-**Ali Ibrahim**  
-Flutter Developer  
-Route Academy Trainee
